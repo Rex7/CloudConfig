@@ -5,5 +5,3 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://service-registry-rex7.herokuapp.com/eureka/
-  instance:
-    hostname: localhost
